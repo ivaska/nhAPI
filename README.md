@@ -1,0 +1,2 @@
+# nhAPI
+nicehash API parsing
